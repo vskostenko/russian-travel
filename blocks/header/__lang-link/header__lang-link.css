@@ -1,0 +1,14 @@
+.header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #fff;
+    width: 22px;
+    height: 20px;
+    padding-top: 8px;
+}
+.header__lang-link:first-of-type {
+    padding-right: 18px;
+    text-decoration: underline;
+}

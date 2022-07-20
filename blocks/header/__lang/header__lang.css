@@ -1,0 +1,6 @@
+.header__lang {
+    display: flex;
+}
+.header__lang:first-child {
+   padding-right: 18px;
+}
