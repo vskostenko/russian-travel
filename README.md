@@ -2,3 +2,5 @@
 
 Проектная работа №3 "Яндекс практикум"
 
+Ссылка на гитхаб:
+https://github.com/vskostenko/russian-travel
