@@ -1,4 +1,4 @@
-.places-grid__place_website {
+.places-grid__place-website {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -8,7 +8,7 @@
 }
 @media screen and (min-width:768px) {
 
-.places-grid__place_website {
+.places-grid__place-website {
     justify-content: end;
 }
 }
