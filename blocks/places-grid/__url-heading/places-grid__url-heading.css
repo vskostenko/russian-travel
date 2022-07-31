@@ -1,0 +1,23 @@
+.places-grid__url-heading {
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+letter-spacing: 2px;
+color: #AAAAAA;
+padding: 32px 16px 12px;
+margin: 0;
+}
+
+
+@media screen and (min-width:768px) {
+    .places-grid__url-heading {
+        padding: 0;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .places-grid__url-heading {
+        padding: 0;
+        line-height: 20px;
+    }
+}

@@ -1,0 +1,18 @@
+.places-grid__link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    margin-left:16px;
+    margin-bottom: 32px;
+}
+.places-grid__link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (min-width:768px) {
+    .places-grid__link {
+    margin: 12px 0 0;
+    }
+}
