@@ -7,15 +7,5 @@
         font-weight: 700;
         font-size: 12px;
         line-height: 18px;
-        margin: 32px 0 0;
 }
 }
-@media screen and (min-width: 1024px) {
-    .intro__list {
-        font-weight: 700;
-        font-size: 12px;
-        line-height: 18px;
-        margin: 32px 0 0;
-}
-}
-

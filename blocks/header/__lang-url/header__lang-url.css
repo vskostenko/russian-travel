@@ -1,0 +1,7 @@
+.header__lang-url {
+    color: #fff;
+    text-decoration: none;
+}
+.header__lang-url:hover {
+    opacity: 0.8;
+}

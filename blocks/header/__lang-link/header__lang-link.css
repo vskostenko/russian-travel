@@ -5,13 +5,11 @@
     text-decoration: none;
     color: #fff;
     width: 22px;
-    height: 20px;
     padding-top: 8px;
 }
 .header__lang-link:hover {
     text-decoration: underline;
 }
-
 
 .header__lang-link:first-of-type {
     padding-right: 18px;
@@ -23,11 +21,9 @@
 
 @media screen and (min-width: 768px) {
     .header__lang-link {
-        font-weight: 400;
         font-size: 24px;
         line-height: 28px;
         width: 30px;
-        height: 28px;
         padding-top: 15px;
     }
   }

@@ -13,7 +13,6 @@
 @media screen and (min-width: 768px) {
     .footer__list {
         flex-direction: row;
-        font-weight: 400;
         font-size: 16px;
         line-height: 18px;
         margin:0;

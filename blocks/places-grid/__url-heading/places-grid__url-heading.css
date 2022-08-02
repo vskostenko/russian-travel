@@ -6,6 +6,7 @@ letter-spacing: 2px;
 color: #AAAAAA;
 padding: 32px 16px 12px;
 margin: 0;
+text-transform: uppercase;
 }
 
 
@@ -17,7 +18,6 @@ margin: 0;
 
 @media screen and (min-width:1024px) {
     .places-grid__url-heading {
-        padding: 0;
         line-height: 20px;
     }
 }

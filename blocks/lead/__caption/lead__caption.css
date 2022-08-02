@@ -8,24 +8,16 @@
     width: 100%;
     font-weight: 400;
     text-transform: uppercase;
-    max-width: 320px;
+    max-width: 174px;
 }
 @media screen and (min-width: 768px) {
     .lead__caption {
-        max-width: 720px;
-        padding-top: 8px;
+        padding-top: 6px;
         padding-left: 24px;
     }
 }
 @media screen and (min-width: 1024px) {
     .lead__caption {
-        padding: 8px 0 0 0;
-        max-width: 928px;
-    }
-}
-@media screen and (min-width: 1280px) {
-    .lead__caption {
-        padding: 8px 0 0 0;
-        max-width: 1184px;
+        padding: 6px 0 0 0;
     }
 }

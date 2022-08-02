@@ -1,15 +1,4 @@
 .photo-grid__item {
     width: 100%;
-    outline: 1px solid black;
     object-fit: contain;
-}
-@media screen and (min-width:1024px) {
-    .photo-grid__item {
-        outline: none;
-    }
-}
-@media screen and (min-width:1280px) {
-    .photo-grid__item {
-        outline: none;
-    }
 }

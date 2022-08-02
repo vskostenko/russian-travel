@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     min-height: 200px;
-    min-width: 320px;
+    max-width: 320px;
     width: 100%;
     background-image: url(../../../images/cover.png);
     background-repeat: no-repeat;
@@ -31,8 +31,6 @@
 .cover__background:hover::before {
   opacity: 0.8;
 }
-
-
 
 @media screen and (min-width: 768px) {
     .cover__background  {

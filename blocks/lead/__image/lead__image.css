@@ -7,11 +7,6 @@
         margin: 56px auto 0;
     }
   }
-  @media screen and (min-width: 1024px) {
-    .lead__image  {
-        margin: 56px auto 0;
-    }
-}
 @media screen and (min-width: 1280px) {
     .lead__image  {
         margin: 64px auto 0;
