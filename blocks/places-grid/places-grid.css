@@ -21,7 +21,6 @@
         grid-template-columns: 440px 456px;
         max-width: 928px;
         margin: 90px auto 0px;
-        row-gap: 48px;
         column-gap: 32px;
     }
   }

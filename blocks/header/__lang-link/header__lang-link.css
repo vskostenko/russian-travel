@@ -4,7 +4,6 @@
     font-weight: 400;
     text-decoration: none;
     color: #fff;
-    width: 22px;
     padding-top: 8px;
 }
 .header__lang-link:hover {
@@ -23,7 +22,6 @@
     .header__lang-link {
         font-size: 24px;
         line-height: 28px;
-        width: 30px;
         padding-top: 15px;
     }
   }
